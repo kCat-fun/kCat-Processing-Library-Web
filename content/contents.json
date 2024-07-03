@@ -1,0 +1,10 @@
+{
+    "content": [
+        {
+            "name": "KButton1",
+            "link": "kbutton1",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaSVB1T4srcUnTVwR0SGc9rlfniZWqzgQ--W06De38JIZcfYJnJZl5-ZtRomfYluS81Y_t_ouq9EhGsOTyVMpWTsqnlyww6qR8=w1440-h765",
+            "explanation": "ボタンを簡単に実装できるライブラリです。ボタンが押されると指定された関数が呼ばれる仕様になっています。"
+        }
+    ]
+}
